@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 ## 📖 About Me
 * 🖥️ Breaking into the field of Data Analytics
 * 💼 Currently working in IT as an Intern at Providence Performing Arts Center

@@ -1,11 +1,11 @@
 ## 📖 About Me
 * 🖥️ Breaking into the field of Data Analytics
-* 💼 Currently working in IT as an Intern at Providence Performing Arts Center
-* 🎓 Rising Senior at Johnson & Wales University, studying Data Analytics with a minor in Marketing, graduating Spring 2025 
+* 💼 Currently working as the Junior Systems Administrator @ Providence Performing Arts Center
+* 🎓 Senior at Johnson & Wales University, studying Data Analytics with a minor in Marketing, graduating Spring 2025 
 
 ## 🧑‍💻 What I'm up to
 * 🔨 In the process of creating an external portfolio (*I hope to eventually link here*)
-* 🐬 Learning SQL via MySQL & PostgreSQL
+* 🐬 Querying via PostgreSQL
 * 🐍 Dive further into Python for DA (Pandas, Numpy, Matplotlib)
 * 🤔 Learn how to use Github more
 

@@ -4,7 +4,7 @@
 * 🎓 Senior at Johnson & Wales University, studying Data Analytics with a minor in Marketing, graduating Spring 2025 
 
 ## 🧑‍💻 What I'm up to
-* 🔨 In the process of creating an external portfolio (*I hope to eventually link here*)
+* 🔨 [Working on my portfolio](https://www.brandondecesare.com/)
 * 🐬 Querying via PostgreSQL
 * 🐍 Dive further into Python for DA (Pandas, Numpy, Matplotlib)
 * 🤔 Learn how to use Github more
